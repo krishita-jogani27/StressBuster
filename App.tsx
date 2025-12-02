@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
-import LoginScreen from  './src/components/LoginScreen';
+import LoginScreen from './componenets/LoginScreen';
 import AppNavigator from './src/navigation/AppNavigator';
 import { UserData } from './types';
 
