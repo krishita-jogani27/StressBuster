@@ -1,7 +1,7 @@
 // import React from 'react';
 // import { NavigationContainer } from '@react-navigation/native';
 // import { createStackNavigator } from '@react-navigation/stack';
-// import Dashboard from '../../componenets/Dashboard';
+//import Dashboard from '../components/Dashboard';
 // import MindGames from '../../src/components/games/MindGames';
 // import BubblePop from '../../src/components/games/BubblePop';
 // import { UserData } from '../../types/index';
@@ -80,7 +80,7 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
-import Dashboard from '../../componenets/Dashboard';
+import Dashboard from '../components/Dashboard';
 import MindGames from '../../src/components/games/MindGames';
 import BubblePop from '../../src/components/games/BubblePop';
 import WhackAMole from '../../src/components/games/WhackAMole';
